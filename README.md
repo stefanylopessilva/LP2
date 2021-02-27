@@ -1,4 +1,4 @@
-# Criando uma calculadora 📝
+# Criando uma calculadora 🖩
 
 Nesse projeto da aula de Linguagem de Programação 2 da FATEC, foi desenvoldido uma calculadora através de Windows Forms (.NET Framework) em C#
 
