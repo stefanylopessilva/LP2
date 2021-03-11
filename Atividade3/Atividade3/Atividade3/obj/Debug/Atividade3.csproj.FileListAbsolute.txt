@@ -1,0 +1,10 @@
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.exe.config
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.pdb
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.csprojAssemblyReference.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.Form1.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.Properties.Resources.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.GenerateResource.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.pdb
