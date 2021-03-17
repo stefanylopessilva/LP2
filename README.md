@@ -21,3 +21,11 @@ Nesse projeto da aula de Linguagem de Programação 2 da FATEC, foi desenvoldido
 ## 📷 Screenshots
 
 ![image](https://user-images.githubusercontent.com/29932387/110824536-ea5fe300-8271-11eb-8008-9cf7c19f8ff6.png)
+
+# Cálculo Salário e Descontos 💰
+
+Nesse projeto da aula de Linguagem de Programação 2 da FATEC, foi desenvoldido um programa que calcula os descontos e salário do funcionário, de acordo com os dados informados pelo usuário, através de Windows Forms (.NET Framework) em C#
+
+## 📷 Screenshots
+
+![image](https://user-images.githubusercontent.com/29932387/111537319-0d930280-874a-11eb-9917-aa1d0c678fd6.png)
