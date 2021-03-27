@@ -1,0 +1,12 @@
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.csprojAssemblyReference.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\PClasses\PClasses\obj\Debug\PClasses.pdb
