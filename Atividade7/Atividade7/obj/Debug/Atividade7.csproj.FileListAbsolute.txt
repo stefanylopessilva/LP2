@@ -1,0 +1,14 @@
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.csprojAssemblyReference.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.frmPrincipal.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.frmExercicio2.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.frmExercicio3.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.frmExercicio4.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.pdb
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.frmExercicio1.resources
