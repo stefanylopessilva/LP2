@@ -1,0 +1,10 @@
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\bin\Debug\P0030482023025.exe.config
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\bin\Debug\P0030482023025.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\bin\Debug\P0030482023025.pdb
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\obj\Debug\P0030482023025.csprojAssemblyReference.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\obj\Debug\P0030482023025.Form1.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\obj\Debug\P0030482023025.Properties.Resources.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\obj\Debug\P0030482023025.csproj.GenerateResource.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\obj\Debug\P0030482023025.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\obj\Debug\P0030482023025.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2\Prova\P0030482023025\obj\Debug\P0030482023025.pdb
