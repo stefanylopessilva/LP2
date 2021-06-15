@@ -1,0 +1,12 @@
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\bin\Debug\PVacina0030482023025.exe.config
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\bin\Debug\PVacina0030482023025.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\bin\Debug\PVacina0030482023025.pdb
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.csproj.AssemblyReference.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.frmPrincipal.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.frmVacina.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.Properties.Resources.resources
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.csproj.GenerateResource.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.exe
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.pdb
+C:\Users\Stefany\Documents\FATEC\2º Semestre\LP2(todo material)\PVacina0030482023025\PVacina0030482023025\obj\Debug\PVacina0030482023025.frmSobreBox.resources
