@@ -53,6 +53,8 @@ namespace PVacina0030482023025
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.dgVacina = new System.Windows.Forms.DataGridView();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.cbxEnfermeiro = new System.Windows.Forms.ComboBox();
+            this.cbxCidadeIdCidade = new System.Windows.Forms.ComboBox();
             this.cbxPrioriVacina = new System.Windows.Forms.ComboBox();
             this.cbxComorbidade = new System.Windows.Forms.ComboBox();
             this.cbxTipoVacina = new System.Windows.Forms.ComboBox();
@@ -75,8 +77,6 @@ namespace PVacina0030482023025
             this.lblDataNascVacina = new System.Windows.Forms.Label();
             this.lblNomeVacina = new System.Windows.Forms.Label();
             this.lblIdVacina = new System.Windows.Forms.Label();
-            this.txtCidadeIdCidade = new System.Windows.Forms.ComboBox();
-            this.txtEnfermeiro = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.bnVacina)).BeginInit();
             this.bnVacina.SuspendLayout();
             this.tbVacina.SuspendLayout();
@@ -302,8 +302,8 @@ namespace PVacina0030482023025
             // tabPage2
             // 
             this.tabPage2.BackColor = System.Drawing.Color.Moccasin;
-            this.tabPage2.Controls.Add(this.txtEnfermeiro);
-            this.tabPage2.Controls.Add(this.txtCidadeIdCidade);
+            this.tabPage2.Controls.Add(this.cbxEnfermeiro);
+            this.tabPage2.Controls.Add(this.cbxCidadeIdCidade);
             this.tabPage2.Controls.Add(this.cbxPrioriVacina);
             this.tabPage2.Controls.Add(this.cbxComorbidade);
             this.tabPage2.Controls.Add(this.cbxTipoVacina);
@@ -332,6 +332,26 @@ namespace PVacina0030482023025
             this.tabPage2.Size = new System.Drawing.Size(770, 293);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Detalhes";
+            // 
+            // cbxEnfermeiro
+            // 
+            this.cbxEnfermeiro.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbxEnfermeiro.Enabled = false;
+            this.cbxEnfermeiro.FormattingEnabled = true;
+            this.cbxEnfermeiro.Location = new System.Drawing.Point(576, 177);
+            this.cbxEnfermeiro.Name = "cbxEnfermeiro";
+            this.cbxEnfermeiro.Size = new System.Drawing.Size(148, 21);
+            this.cbxEnfermeiro.TabIndex = 25;
+            // 
+            // cbxCidadeIdCidade
+            // 
+            this.cbxCidadeIdCidade.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbxCidadeIdCidade.Enabled = false;
+            this.cbxCidadeIdCidade.FormattingEnabled = true;
+            this.cbxCidadeIdCidade.Location = new System.Drawing.Point(130, 141);
+            this.cbxCidadeIdCidade.Name = "cbxCidadeIdCidade";
+            this.cbxCidadeIdCidade.Size = new System.Drawing.Size(163, 21);
+            this.cbxCidadeIdCidade.TabIndex = 24;
             // 
             // cbxPrioriVacina
             // 
@@ -542,24 +562,6 @@ namespace PVacina0030482023025
             this.lblIdVacina.TabIndex = 0;
             this.lblIdVacina.Text = "ID";
             // 
-            // txtCidadeIdCidade
-            // 
-            this.txtCidadeIdCidade.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.txtCidadeIdCidade.FormattingEnabled = true;
-            this.txtCidadeIdCidade.Location = new System.Drawing.Point(130, 141);
-            this.txtCidadeIdCidade.Name = "txtCidadeIdCidade";
-            this.txtCidadeIdCidade.Size = new System.Drawing.Size(163, 21);
-            this.txtCidadeIdCidade.TabIndex = 24;
-            // 
-            // txtEnfermeiro
-            // 
-            this.txtEnfermeiro.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.txtEnfermeiro.FormattingEnabled = true;
-            this.txtEnfermeiro.Location = new System.Drawing.Point(576, 177);
-            this.txtEnfermeiro.Name = "txtEnfermeiro";
-            this.txtEnfermeiro.Size = new System.Drawing.Size(148, 21);
-            this.txtEnfermeiro.TabIndex = 25;
-            // 
             // frmVacina
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -630,7 +632,7 @@ namespace PVacina0030482023025
         private System.Windows.Forms.Label lblDataNascVacina;
         private System.Windows.Forms.Label lblNomeVacina;
         private System.Windows.Forms.Label lblIdVacina;
-        private System.Windows.Forms.ComboBox txtEnfermeiro;
-        private System.Windows.Forms.ComboBox txtCidadeIdCidade;
+        private System.Windows.Forms.ComboBox cbxEnfermeiro;
+        private System.Windows.Forms.ComboBox cbxCidadeIdCidade;
     }
 }

@@ -46,19 +46,19 @@ namespace PVacina0030482023025
                 cbxComorbidade.DataBindings.Add("SelectedItem", bsVacina, "comorbidade_vacina");
                 cbxPrioriVacina.DataBindings.Add("SelectedItem", bsVacina, "grupopriori_vacina");
 
-                Cidade Cid = new Cidade(); //Objeto
+                Cidade Cid = new Cidade(); 
                 dsCidade.Tables.Add(Cid.Listar()); 
-                txtCidadeIdCidade.DataSource = dsCidade.Tables["Cidade"];
-                txtCidadeIdCidade.DisplayMember = "nome_cidade";
-                txtCidadeIdCidade.ValueMember = "id_cidade";
-                txtCidadeIdCidade.DataBindings.Add("SelectedValue", bsVacina, "cidade_id_cidade");
+                cbxCidadeIdCidade.DataSource = dsCidade.Tables["Cidade"];
+                cbxCidadeIdCidade.DisplayMember = "nome_cidade";
+                cbxCidadeIdCidade.ValueMember = "id_cidade";
+                cbxCidadeIdCidade.DataBindings.Add("SelectedValue", bsVacina, "cidade_id_cidade");
 
-                Enfermeiro Enf = new Enfermeiro(); //Objeto
+                Enfermeiro Enf = new Enfermeiro(); 
                 dsEnfermeiro.Tables.Add(Enf.Listar()); 
-                txtEnfermeiro.DataSource = dsEnfermeiro.Tables["Enfermeiro"];
-                txtEnfermeiro.DisplayMember = "nome_enfermeiro";
-                txtEnfermeiro.ValueMember = "id_enfermeiro";
-                txtEnfermeiro.DataBindings.Add("SelectedValue", bsVacina, "enfermeiro_id_enfermeiro");
+                cbxEnfermeiro.DataSource = dsEnfermeiro.Tables["Enfermeiro"];
+                cbxEnfermeiro.DisplayMember = "nome_enfermeiro";
+                cbxEnfermeiro.ValueMember = "id_enfermeiro";
+                cbxEnfermeiro.DataBindings.Add("SelectedValue", bsVacina, "enfermeiro_id_enfermeiro");
             }
             catch (Exception ex)
             {
@@ -78,14 +78,16 @@ namespace PVacina0030482023025
             txtNomeVacina.Enabled = true;
             txtDataNascVacina.Enabled = true;
             txtEnderecoVacina.Enabled = true;
-            txtCidadeIdCidade.Enabled = true;
+            cbxCidadeIdCidade.Enabled = true;
             mskCpfVacina.Enabled = true;
             mskRgVacina.Enabled = true;
             txtDataVacina.Enabled = true;
             cbxTipoVacina.Enabled = true;
             cbxComorbidade.Enabled = true;
             cbxPrioriVacina.Enabled = true;
-            txtEnfermeiro.Enabled = true;
+            cbxEnfermeiro.Enabled = true;
+            cbxCidadeIdCidade.SelectedIndex = 0;
+            cbxEnfermeiro.SelectedIndex = 0;
             cbxTipoVacina.SelectedIndex = 0;
             cbxComorbidade.SelectedIndex = 0;
             cbxPrioriVacina.SelectedIndex = 0;
@@ -124,14 +126,14 @@ namespace PVacina0030482023025
                 RegVac.NomeVacina = txtNomeVacina.Text;
                 RegVac.EndVacina = txtEnderecoVacina.Text;
                 RegVac.DataNascVacina = txtDataNascVacina.Value;
-                RegVac.CidadeIdVacina = Convert.ToInt32(txtCidadeIdCidade.SelectedValue.ToString());
+                RegVac.CidadeIdVacina = Convert.ToInt32(cbxCidadeIdCidade.SelectedValue.ToString());
                 RegVac.CpfVacina = mskCpfVacina.Text;
                 RegVac.RgVacina = mskRgVacina.Text;
                 RegVac.DataVacina = txtDataVacina.Value;
                 RegVac.TipoVacina = Convert.ToChar(cbxTipoVacina.SelectedItem.ToString());
                 RegVac.GrupoPrioriVacina = Convert.ToChar(cbxPrioriVacina.SelectedItem.ToString());
                 RegVac.ComorbidadeVacina = Convert.ToChar(cbxComorbidade.SelectedItem.ToString());
-                RegVac.EnfermeiroIdEnfermeiro = Convert.ToInt32(txtEnfermeiro.SelectedValue.ToString());
+                RegVac.EnfermeiroIdEnfermeiro = Convert.ToInt32(cbxEnfermeiro.SelectedValue.ToString());
 
                 if (bInclusao)
                 {
@@ -142,14 +144,14 @@ namespace PVacina0030482023025
                         txtNomeVacina.Enabled = false;
                         txtDataNascVacina.Enabled = false;
                         txtEnderecoVacina.Enabled = false;
-                        txtCidadeIdCidade.Enabled = false;
+                        cbxCidadeIdCidade.Enabled = false;
                         mskCpfVacina.Enabled = false;
                         mskRgVacina.Enabled = false;
                         txtDataVacina.Enabled = false;
                         cbxTipoVacina.Enabled = false;
                         cbxComorbidade.Enabled = false;
                         cbxPrioriVacina.Enabled = false;
-                        txtEnfermeiro.Enabled = false;
+                        cbxEnfermeiro.Enabled = false;
 
                         btnIncluir.Enabled = true;
                         btnSalvar.Enabled = false;
@@ -180,14 +182,14 @@ namespace PVacina0030482023025
                         txtNomeVacina.Enabled = false;
                         txtDataNascVacina.Enabled = false;
                         txtEnderecoVacina.Enabled = false;
-                        txtCidadeIdCidade.Enabled = false;
+                        cbxCidadeIdCidade.Enabled = false;
                         mskCpfVacina.Enabled = false;
                         mskRgVacina.Enabled = false;
                         txtDataVacina.Enabled = false;
                         cbxTipoVacina.Enabled = false;
                         cbxComorbidade.Enabled = false;
                         cbxPrioriVacina.Enabled = false;
-                        txtEnfermeiro.Enabled = false;
+                        cbxEnfermeiro.Enabled = false;
 
                         btnIncluir.Enabled = true;
                         btnSalvar.Enabled = false;
@@ -218,14 +220,14 @@ namespace PVacina0030482023025
             txtNomeVacina.Enabled = true;
             txtDataNascVacina.Enabled = true;
             txtEnderecoVacina.Enabled = true;
-            txtCidadeIdCidade.Enabled = true;
+            cbxCidadeIdCidade.Enabled = true;
             mskCpfVacina.Enabled = true;
             mskRgVacina.Enabled = true;
             txtDataVacina.Enabled = true;
             cbxTipoVacina.Enabled = true;
             cbxComorbidade.Enabled = true;
             cbxPrioriVacina.Enabled = true;
-            txtEnfermeiro.Enabled = true;
+            cbxEnfermeiro.Enabled = true;
             btnIncluir.Enabled = false;
             btnSalvar.Enabled = true;
             btnAlterar.Enabled = false;
@@ -269,14 +271,14 @@ namespace PVacina0030482023025
             txtNomeVacina.Enabled = false;
             txtDataNascVacina.Enabled = false;
             txtEnderecoVacina.Enabled = false;
-            txtCidadeIdCidade.Enabled = false;
+            cbxCidadeIdCidade.Enabled = false;
             mskCpfVacina.Enabled = false;
             mskRgVacina.Enabled = false;
             txtDataVacina.Enabled = false;
             cbxTipoVacina.Enabled = false;
             cbxComorbidade.Enabled = false;
             cbxPrioriVacina.Enabled = false;
-            txtEnfermeiro.Enabled = false;
+            cbxEnfermeiro.Enabled = false;
 
             btnIncluir.Enabled = true;
             btnSalvar.Enabled = false;
